@@ -5,7 +5,7 @@
 - Redux-Toolkit
 - How to setup the axios and fetch the data
 - How to create infinite scrolling
-- create github repository and upload code
+- Create github repository and upload code
 - Deploy on vercel 
 
 ![Alt text](thumnail.png?raw=true "Title")
