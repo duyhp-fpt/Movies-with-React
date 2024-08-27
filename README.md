@@ -1,4 +1,12 @@
 # Build and Deploy movie app with React & Redux | Mobile Responsive
+- React 18
+- Custom hooks
+- State management
+- Redux-Toolkit
+- How to setup the axios and fetch the data
+- How to create infinite scrolling
+- Create github repository and upload code
+- Deploy on vercel 
 
 ![Alt text](thumnail.png?raw=true "Title")
 
